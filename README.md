@@ -1,4 +1,5 @@
-# MHPcinemas - Hệ thống Đặt vé Trực tuyến
+# MHPcinemas - 
+<p color="red">Quick booking & Quick payment</p>
 
 Chào mừng bạn đến với MHPcinemas - nền tảng đặt vé trực tuyến hàng đầu, nơi bạn có thể dễ dàng đặt vé xem phim mọi lúc, mọi nơi. 
 
