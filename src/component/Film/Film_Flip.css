@@ -1,0 +1,99 @@
+.flip-card-top {
+  position: relative;
+
+}
+
+.btn-play-trailer {
+  outline: none;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  color: #fff;
+  text-align: center;
+  background-color: rgb(225, 103, 13);
+  top: 0;
+  left: 0;
+  clip-path:
+    polygon(-1px -1px, -1px -10px, calc(100% + 1px) -10px, calc(100% + 1px) 0, calc(100% + 1px) calc(100% - 15px), calc(100% - 15px) calc(100% + 1px), 0 100%, 0 calc(100% - 4px));
+  z-index: 3;
+}
+
+.btn-play-trailer:hover {
+
+  background-color: rgb(238, 157, 12);
+
+
+}
+
+.image-overlay {
+  position: relative;
+  /* background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)); */
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 60%, rgba(0, 0, 0, 0.6) 70%, rgba(0, 0, 0, 0.9) 100%);
+  z-index: 2;
+  transition: all 0.3s;
+  cursor: pointer;
+  width: 250px;
+  height: 375px;
+
+}
+
+.image-overlay:hover {
+
+  background-color: rgba(0, 0, 0, 0.35);
+
+}
+
+
+.flip-card-img {
+  position: absolute;
+  width: 250px;
+  height: 375px;
+  background-size: cover;
+  background-position: center;
+  z-index: 1;
+}
+
+
+.iframe-container {
+  position: relative;
+  padding-bottom: 50%;
+  /* 16:9 aspect ratio (800/315) */
+  height: 0;
+  overflow: hidden;
+}
+
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.flip-card-bot {
+  position: relative;
+  left: 0;
+  z-index: 5;
+  bottom: 15px;
+  text-transform: uppercase;
+
+}
+
+.ReactModal__Content {
+  padding: 0 0 !important;
+  background: transparent !important;
+  border: none !important;
+  ;
+}
+
+@media (max-width: 575px) {
+  .flip-card-img {
+    width: 200px;
+    height: 267px;
+  }
+
+  .image-overlay {
+    width: 200px;
+    height: 267px;
+  }
+}

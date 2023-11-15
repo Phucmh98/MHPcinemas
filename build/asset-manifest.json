@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9144c26.chunk.css",
+    "main.js": "/static/js/main.b39ec162.chunk.js",
+    "main.js.map": "/static/js/main.b39ec162.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.02abb79c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.02abb79c.js.map",
+    "static/css/2.6cc4d4f6.chunk.css": "/static/css/2.6cc4d4f6.chunk.css",
+    "static/js/2.a2674549.chunk.js": "/static/js/2.a2674549.chunk.js",
+    "static/js/2.a2674549.chunk.js.map": "/static/js/2.a2674549.chunk.js.map",
+    "static/js/3.24b2bced.chunk.js": "/static/js/3.24b2bced.chunk.js",
+    "static/js/3.24b2bced.chunk.js.map": "/static/js/3.24b2bced.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6cc4d4f6.chunk.css.map": "/static/css/2.6cc4d4f6.chunk.css.map",
+    "static/css/main.a9144c26.chunk.css.map": "/static/css/main.a9144c26.chunk.css.map",
+    "static/js/2.a2674549.chunk.js.LICENSE.txt": "/static/js/2.a2674549.chunk.js.LICENSE.txt",
+    "static/media/loading_logo.fa2685c5.gif": "/static/media/loading_logo.fa2685c5.gif",
+    "static/media/Login.css": "/static/media/login_bg.6420ed9b.jpg",
+    "static/media/logo_mhp.png": "/static/media/logo_mhp.72bde451.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/summer_ticket.56f6a0b2.jpg": "/static/media/summer_ticket.56f6a0b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02abb79c.js",
+    "static/css/2.6cc4d4f6.chunk.css",
+    "static/js/2.a2674549.chunk.js",
+    "static/css/main.a9144c26.chunk.css",
+    "static/js/main.b39ec162.chunk.js"
+  ]
+}

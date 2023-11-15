@@ -1,0 +1,14 @@
+.t-test-url{
+    /* background-image: url('./img/Logo/logo_androind.png');
+    /* /* background-image: url('./img/Logo/logo_androind.png'); */
+    /* background-image: url('./img/Carousel/carousel_1.jpg'); */
+    /* background-image: url('./img/Background/bg_mobile_home.jpg'); */
+    /* background-image: url('./img/Background/mobile_slick.png'); */
+    /* background-image: url('./img/Detail/summer_ticket.jpg');  */
+    background-image: url('./img/Seat/seat.png');
+    background-image: url('./img/Logo/logo_mhp.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #051122cb;
+}

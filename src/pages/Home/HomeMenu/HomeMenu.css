@@ -1,0 +1,8 @@
+
+.hover-film{
+    transition: all 0.3s;
+}
+
+.hover-film:hover{
+    color: rgb(225, 103, 13)!important;
+}

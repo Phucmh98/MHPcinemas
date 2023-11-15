@@ -1,0 +1,11 @@
+
+
+
+.loading-img::before{
+    content: '';
+    position: absolute;
+    background-color: #05112277;
+    width: 100%;
+    height: 100%;
+
+}
