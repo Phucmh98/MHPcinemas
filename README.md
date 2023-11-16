@@ -8,14 +8,20 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 
 :point_right: (I'm just kidding. Here is an exercise to practice) :zany_face: :zany_face:
 
-## Tính Năng Chính
+## Main Feature
 
-- **Đặt Vé Nhanh Chóng:** Trải nghiệm quy trình đặt vé nhanh chóng và thuận tiện chỉ trong vài bước đơn giản.
-  
-- **Lịch Chiếu Phong Phú:** Khám phá lịch chiếu đa dạng với nhiều bộ phim hấp dẫn từ các thể loại khác nhau.
-  
-- **Thanh Toán An Toàn:** Thực hiện thanh toán một cách an toàn và tiện lợi thông qua các phương thức thanh toán phổ biến.
+Because this is the academy's API provided to me for homework, there will be many things that are not true to reality. Hope you ignore it
 
-- **Quản lý Thông tin Tài khoản:** Dễ dàng quản lý thông tin cá nhân và lịch sử đặt vé từ tài khoản cá nhân của bạn.
+:point_down::point_down: Click Here:
+
+<h3 style="display: flex; align-items: center; justify-content: center;">  
+  <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30"> [MHPcinemas](http://mhpcinemas.surge.sh/) :point_left:  
+</h3>
+
+> - **Login/Register**  
+> - **Home page:** Shows movie list (include: Show All, Now Showing, Comming Soon), Find movies, Popup Video   
+> - **Detail Movie page:** Show information movie, show cinemas
+> - **Detail Cinemas page:** Show seats and choose seats, show detail tickets
+> - **Cinemas page:** Show detail cinemas and movies, show information cinemas include: name, location, showtime
 
 ## Bắt Đầu
