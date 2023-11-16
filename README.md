@@ -10,7 +10,11 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 
 ## Main Feature <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30">
 
-Because this is the academy's API provided to me for homework, there will be many things that are not true to reality. Hope you ignore it
+*Because this is the academy's API provided to me for homework, there will be many things that are not true to reality. Hope you ignore it.*
+
+*I'm refer to UI/UX from many sources so you may see it somewhere and I hope you ignore it because this is just my exercise* :wink:. *Thank you so much.* :sparkling_heart:
+
+
 
 :point_down::point_down: Here is Homepage:
 
@@ -22,7 +26,7 @@ Because this is the academy's API provided to me for homework, there will be man
 > - **Detail Cinemas page:** Show seats and choose seats, show detail tickets
 > - **Cinemas page:** Show detail cinemas and movies, show information cinemas include: name, location, showtime
 
-### In addition, I have an additional user management page
+### In addition, I have an additional User Management page
 
 :point_down::point_down: Here is Management page:
 
