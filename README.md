@@ -1,7 +1,12 @@
-# MHPcinemas - 
-<p color="red">Quick booking & Quick payment</p>
+<div class="image-container" style="text-align: center;">
+  <img src="https://github.com/Phucmh98/Phucmh98/blob/main/git-banner-2.png" alt="logo" class="image"> 
+</div>
 
-Chào mừng bạn đến với MHPcinemas - nền tảng đặt vé trực tuyến hàng đầu, nơi bạn có thể dễ dàng đặt vé xem phim mọi lúc, mọi nơi. 
+<h1 align= "center">MHPcinemas - Quick booking & Quick payment</h1>
+
+Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where you can easily book movie tickets anytime, anywhere.
+
+:point_right: (I'm just kidding. Here is an exercise to practice) :zany_face: :zany_face:
 
 ## Tính Năng Chính
 
