@@ -8,15 +8,14 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 
 :point_right: (I'm just kidding. Here is an exercise to practice) :zany_face: :zany_face:
 
-## Main Feature
+## Main Feature <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30">
 
 Because this is the academy's API provided to me for homework, there will be many things that are not true to reality. Hope you ignore it
 
 :point_down::point_down: Click Here:
 
-<h3 style="display: flex; align-items: center; justify-content: center;">  
-  <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30"> [MHPcinemas](http://mhpcinemas.surge.sh/) :point_left:  
-</h3>
+<img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30"> [**MHPcinemas**](http://mhpcinemas.surge.sh/) :point_left:  
+
 
 > - **Login/Register**  
 > - **Home page:** Shows movie list (include: Show All, Now Showing, Comming Soon), Find movies, Popup Video   
