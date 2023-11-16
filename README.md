@@ -14,8 +14,6 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 
 *I'm refer to UI/UX from many sources so you may see it somewhere and I hope you ignore it because this is just my exercise* :wink:. *Thank you so much.* :sparkling_heart:
 
-
-
 :point_down::point_down: Here is Homepage:
 
 <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30"> [**MHPcinemas**](http://mhpcinemas.surge.sh/) :point_left:  
@@ -47,3 +45,5 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
    <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="antdesign" width="40" height="40"/> </a>
 </p>
+
+## I'm already have another version for mobile :star_struck:
