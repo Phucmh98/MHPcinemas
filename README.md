@@ -46,6 +46,5 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
    <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="antdesign" width="40" height="40"/> </a>
 </p>
 
-## I'm already have another version for mobile :star_struck:
-:point_right::point_right: [Click Here](https://github.com/Phucmh98/mhp_cinemas_app) :rocket: and I'll take you there. :wink: 
-<img align="right" alt="coding" width="600" src="https://github.com/Phucmh98/MHPcinemas/blob/master/public/img/Carousel/carousel_mhp.png">
+## I'm already have another version for mobile :star_struck:. :point_right::point_right: [Click Here](https://github.com/Phucmh98/mhp_cinemas_app) :rocket: and I'll take you there. :wink:
+<img  alt="coding"  src="https://github.com/Phucmh98/MHPcinemas/blob/master/public/img/Carousel/carousel_mhp.png">
