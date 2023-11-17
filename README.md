@@ -6,7 +6,7 @@
 
 Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where you can easily book movie tickets anytime, anywhere.
 
-:point_right: (I'm just kidding. Here is an exercise to practice) :zany_face: :zany_face:
+:point_right: (I'm just kidding. Here is an exercise to practice. It is a movie ticket booking website with front-end only) :zany_face: :zany_face:
 
 ## Main Feature <img src="https://github.com/Phucmh98/MHPcinemas/blob/master/src/assets/img/logo/logo_mhp.png" alt="(http://mhpcinemas.surge.sh/)" class="image" height="30">
 
@@ -47,4 +47,5 @@ Welcome to MHPcinemas :wave: - the leading online ticket booking platform, where
 </p>
 
 ## I'm already have another version for mobile :star_struck:
+:point_right::point_right: [Click Here](https://github.com/Phucmh98/mhp_cinemas_app) :rocket: and I'll take you there. :wink: 
 <img align="right" alt="coding" width="600" src="https://github.com/Phucmh98/MHPcinemas/blob/master/public/img/Carousel/carousel_mhp.png">
